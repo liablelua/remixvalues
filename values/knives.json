@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Basic",
+    "image": "HTTPS://placehold.co/100x100",
+    "obtainMethod": "Joining the Game",
+    "rarity": "Basic",
+    "demand": "Very Low",
+    "value": 0,
+    "id": 1
+  },
+  {
+    "name": "Coal",
+    "image": "https://placehold.co/100x100",
+    "obtainMethod": "Unobtainable",
+    "rarity": "Common",
+    "demand": "Very Low",
+    "value": 0,
+    "id": 2
+  }
+]
